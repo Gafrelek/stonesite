@@ -2,8 +2,8 @@ import { BrowserRouter } from "react-router-dom";
 
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import Features from "./components/Features.jsx";
-import Testimonial from "./components/Testimonial";
+// import Features from "./components/Features.jsx";
+// import Testimonial from "./components/Testimonial";
 import Footer from "./components/Footer";
 
 function App() {
